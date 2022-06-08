@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stysan
-- 👀 I’m creating programming language called Rug
+- 👀 I’m creating a programming language
 - 🌱 I’m currently learning Python and English.
 - 💞️ I’m not looking to collaborate because I barely can write 100 lines in Python
 - 📫 You can reach me in discord - stysan#6555
