@@ -21,4 +21,4 @@
 <a href="https://developer.mozilla.org/en-US/"><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN Web Docs"></img></a><!-- MDN Web Docs -->
 <a href="https://www.duolingo.com/"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo"></img></a><!-- Duolingo -->
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-404eed?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></img></a><!-- Discord -->
-<a href="http://greenfriends.ru"><img src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> -->
+<a href="http://greenfriends.ru"><img src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a><!-- My website -->
