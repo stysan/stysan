@@ -1,10 +1,16 @@
-# About me
 
-- 👋 Hi, I’m ~~a freaking nerd~~ @stysan
-- 👀 I’m creating a programming language
-- 🌱 I’m currently learning Python, C# and English.
-- 💞️ I’m not looking to collaborate because I barely can write 100 lines in Python
-- 📫 You can reach me in discord - stysan#6555
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=stysan&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=stysan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=stysan&show_icons=true" />
+</picture>
 
 ## Badges
 
